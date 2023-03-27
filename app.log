@@ -1,0 +1,19 @@
+
+11:58:08.386 [main] INFO  dev.console.App - Bonjour Slf4J !
+11:58:08.392 [main] INFO  dev.console.App - Implementation Logback
+11:58:08.393 [main] DEBUG dev.console.AppService - Traitement 1 : param = Clément
+11:59:52.981 [main] INFO  dev.console.App - Bonjour Slf4J !
+11:59:52.987 [main] INFO  dev.console.App - Implementation Logback
+11:59:52.988 [main] DEBUG dev.console.AppService - Traitement 1 : param = Clément
+12:01:04.010 [main] INFO  dev.console.App - Bonjour Slf4J !
+12:01:04.016 [main] INFO  dev.console.App - Implementation Logback
+12:01:04.017 [main] DEBUG dev.console.AppService - Traitement 1 : param = Clément
+12:02:09.091 [main] INFO  dev.console.App - Bonjour Slf4J !
+12:02:09.096 [main] INFO  dev.console.App - Implementation Logback
+12:02:09.098 [main] DEBUG dev.console.AppService - Traitement 1 : param = Clément
+12:02:39.549 [main] INFO  dev.console.App - Bonjour Slf4J !
+12:02:39.554 [main] INFO  dev.console.App - Implementation Logback
+12:02:39.556 [main] DEBUG dev.console.AppService - Traitement 1 : param = Clément
+12:02:50.449 [main] INFO  dev.console.App - Bonjour Slf4J !
+12:02:50.455 [main] INFO  dev.console.App - Implementation Logback
+12:02:50.456 [main] DEBUG dev.console.AppService - Traitement 1 : param = Clément
